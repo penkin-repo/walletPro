@@ -1,0 +1,7 @@
+{
+  "name": "QuickCards Wallet",
+  "description": "A high-speed, progressive web app (PWA) to store and quickly access your discount and loyalty cards. All data is stored locally on your device for fast, offline access. Cards are sorted by popularity for your convenience.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
