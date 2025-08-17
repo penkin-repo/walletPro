@@ -1,6 +1,7 @@
 import { createClient, SupabaseClient } from '@supabase/supabase-js';
 import { Database } from './typesSupabase';
 
+// These values will be replaced by GitHub Actions
 const supabaseUrl: string = '${{ secrets.SUPABASE_URL }}';
 const supabaseAnonKey: string = '${{ secrets.SUPABASE_ANON_KEY }}';
 
