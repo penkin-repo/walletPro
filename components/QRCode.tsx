@@ -2,7 +2,7 @@
 import React, { useEffect, useRef } from 'react';
 import QRCode from 'qrcode';
 
-declare var QRCode: any;
+// declare var QRCode: any;
 
 interface QRCodeProps {
   value: string;
